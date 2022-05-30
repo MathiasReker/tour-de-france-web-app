@@ -1,0 +1,10 @@
+body {
+  font-size: 1.25rem;
+  background-color: #f6f8fa;
+}
+
+.jersey-img {
+  max-width: 100px;
+  width: auto;
+  object-fit: cover;
+}
