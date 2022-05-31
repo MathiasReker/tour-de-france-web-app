@@ -1,6 +1,6 @@
 # Tour de France
 
-Front end for Tour de France web app.
+Frontend for Tour de France web app.
 
 ## Steps to setup
 
